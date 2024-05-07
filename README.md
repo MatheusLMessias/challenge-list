@@ -8,7 +8,7 @@
 
 ## About :book:
 <p align="justify">
-    Projeto de APIs em java + spring boot para criação, listagem, alteração e deleção em db mysql, utilizando terraform para provisionar no na AWS EC2
+    Projeto de APIs em java + spring boot para criação, listagem, alteração e deleção em db mysql, utilizando terraform para provisionar na AWS EC2
 </p>
 <p align="center">
     <a href="https://www.java.com/pt-BR/" target="_blank">
