@@ -66,15 +66,15 @@ Criar: localhost:8080/v1/todos/create
 	"prioridade":
 }
 
-Delete: localhost:8080/v1/todos/list
+Listar: localhost:8080/v1/todos/list
 {}
-Delete: localhost:8080/v1/todos/change/{id}
+Alterar: localhost:8080/v1/todos/change/{id}
 {
 	"nome": "",
 	"descricao": "",
 	"prioridade":
 }
-Delete: localhost:8080/v1/todos/delete/{id}
+Deletar: localhost:8080/v1/todos/delete/{id}
 {}
 
 ```
